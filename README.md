@@ -6,7 +6,7 @@
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![PVE 7.0-13](https://img.shields.io/badge/Proxmox%20VE-f12354?style=flat-square&logo=proxmox&logoColor=ffffff)](https://pve.proxmox.com/wiki/Main_Page)
-[![DSM7](https://img.shields.io/badge/DSM%207.0.1-b54bbf?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.cn/zh-cn/DSM70/)
+[![OMV6](https://img.shields.io/badge/OMV%206-b54bbf?style=flat-square&logo=openmediavault&logoColor=ffffff)](https://www.openmediavault.org/)
 [![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 ## 📱 Devices in use
