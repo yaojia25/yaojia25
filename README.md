@@ -10,5 +10,5 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 ## 📱 Devices in use
-[![Xiaomi 10 Pro](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi10)
+[![Xiaomi 10 Pro](https://img.shields.io/badge/Xiaomi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi10)
 [![NAS J4125](https://img.shields.io/badge/NAS%20J4125-ff850?style=flat-square&logo=Intel&logoColor=ffffff)](https://ark.intel.com/content/www/cn/zh/ark/products/197305/intel-celeron-processor-j4125-4m-cache-up-to-2-70-ghz.html)
