@@ -2,7 +2,8 @@
  * An ordinary person who has escaped the low-level taste!
 
 [![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=yaojia25&show_icons=true&theme=onedark)](https://github.com/yaojia25)
-<img align="center" alt="Genshin" src="https://genshin-card.getloli.com/59/100196105.png" />
+
+<img align="center" alt="Genshin" src="https://genshin-card.getloli.com/59/6242884.png" />
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
