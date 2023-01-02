@@ -1,5 +1,5 @@
-## 👋 Hi there
- * An ordinary person who has escaped the low-level taste!
+## 👋 Welcome
+A rookie Coder who wants to become different
 
 [![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=yaojia25&show_icons=true&theme=onedark)](https://github.com/yaojia25)
 
