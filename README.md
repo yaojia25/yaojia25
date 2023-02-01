@@ -1,7 +1,7 @@
 ## 👋 Welcome
 A rookie Coder who wants to become different
 
-[![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=yaojia25&show_icons=true&theme=onedark)](https://github.com/yaojia25)
+[![Jasyo's github stats](https://github-readme-stats.vercel.app/api?username=yaojia25&show_icons=true&theme=onedark)](https://github.com/yaojia25)
 
 <img align="center" alt="Genshin" src="https://genshin-card.getloli.com/59/6242884.png" />
 
